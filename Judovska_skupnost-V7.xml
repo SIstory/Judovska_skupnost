@@ -81,11 +81,13 @@
                   <imprint>
                      <date>2011</date>
                      <pubPlace>Celje</pubPlace>
+                     <pubPlace>http://sistory.si/SISTORY:ID:30170</pubPlace>
                      <publisher>Zgodovinsko društvo, Celje</publisher>
                   </imprint>
                </monogr>
                <idno type="ISBN">978-961-6845-01-4</idno>
                <idno type="cobiss">258331392</idno>
+               <idno type="URI">http://sistory.si/SISTORY:ID:30170</idno>
             </biblStruct>
          </sourceDesc>
          <sourceDesc xml:id="SourceBornDigital">
@@ -104,11 +106,390 @@
                </titleStmt>
                <publicationStmt>
                   <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf1.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
                   <authority>
                      <orgName>Highcharts</orgName>
-                     <ident type="URL"/>
+                     <ident type="URL">http://www.highcharts.com/</ident>
                      <ident xml:lang="en">JavaScript charts</ident>
                   </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.2">
+            <biblFull>
+               <titleStmt>
+                  <title>Število Judov v mejah ozemlja Dravske banovine med leti 1880 in
+                     1937</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf2.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.3">
+            <biblFull>
+               <titleStmt>
+                  <title>Prisotno judovsko prebivalstvo z ozemlja Dravske banovine brez Prekmurja po
+                     večjih mestih (1880-1937)</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf3.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.4">
+            <biblFull>
+               <titleStmt>
+                  <title>Družinski stan Judov iz Dravske banovine leta 1937</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf4.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.5">
+            <biblFull>
+               <titleStmt>
+                  <title>Starostna struktura judovskega prebivalstva v Dravski banovini leta 1937 v
+                     primerjavi s celotnim prebivalstvom leta 1931 v %</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf5.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.6">
+            <biblFull>
+               <titleStmt>
+                  <title>Poklicna razdelitev judovskega (leta 1937) in celotnega prebivalstva (leta
+                     1931) Ljubljane, Maribora, Ptuja, Celja ter Prekmurja v %</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf6.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.7">
+            <biblFull>
+               <titleStmt>
+                  <title>Tuji in jugoslovanski državljani med Judi (leta 1937) in celotnim
+                     prebivalstvom Dravske banovine (leta 1931)</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf7.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.8">
+            <biblFull>
+               <titleStmt>
+                  <title>Državljanstvo Judov v večjih slovenskih mestih leta 1937</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf8.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.9">
+            <biblFull>
+               <titleStmt>
+                  <title>Odstotek žrtev druge svetovne vojne v Sloveniji</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf9.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.10">
+            <biblFull>
+               <titleStmt>
+                  <title>Gibanje števila judovskega prebivalstva od njihove naselitve do holokavsta
+                     z ozirom na posamezna okupirana ozemlja Slovenije med drugo svetovno
+                     vojno</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf10.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.11">
+            <biblFull>
+               <titleStmt>
+                  <title>Poklicna struktura prebivalstva jugoslovanske Slovenije iz leta 1931,
+                     Judovskega prebivalstva iz leta 1937 ter judovskih in slovenskih žrtev druge
+                     svetovne vojne</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf11.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.12">
+            <biblFull>
+               <titleStmt>
+                  <title>Slovenske in judovske žrtve druge svetovno vojne v Prekmurju glede na datum
+                     rojstva</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf12.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.13">
+            <biblFull>
+               <titleStmt>
+                  <title>Leto rojstva judovskih žrtev holokavsta in preživelih Judov iz Prekmurja;
+                     št.</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf13.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.14">
+            <biblFull>
+               <titleStmt>
+                  <title>Spol judovskih in ostalih žrtev druge svetovne vojne v Sloveniji; v
+                     %</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf14.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.15">
+            <biblFull>
+               <titleStmt>
+                  <title>Deleži judovskih in ostalih civilnih žrtev druge svetovne vojne v Sloveniji
+                     glede na spol; v %</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf15.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+         <sourceDesc xml:id="SourceHighcharts.16">
+            <biblFull>
+               <titleStmt>
+                  <title>Vzrok smrti judovskih in ostalih žrtev druge svetovne vojne v Sloveniji
+                     glede na spol</title>
+                  <author>
+                     <forename>Andrej</forename>
+                     <surname>Pančur</surname>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Inštitut za novejšo zgodovino</publisher>
+                  <idno>Graf16.html</idno>
+                  <availability>
+                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                  </availability>
+                  <authority>
+                     <orgName>Highcharts</orgName>
+                     <ident type="URL">http://www.highcharts.com/</ident>
+                     <ident xml:lang="en">JavaScript charts</ident>
+                  </authority>
+                  <date>2014</date>
                </publicationStmt>
             </biblFull>
          </sourceDesc>
@@ -5133,10 +5514,10 @@
                <figure xml:id="ch03-img1" n="1" type="chart">
                   <head>Delež Judov Murske Sobote, Lendave, Beltincev in drugih prekmurskih vasi med
                      leti 1793 in 1937, v %</head>
-                  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Pictures/Graf1.svg"/>
-                  <graphic url="Pictures/Graf1.html" mimeType="application/javascript"
+                  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Charts/Graf1.svg"/>
+                  <graphic url="Charts/Graf1.html" mimeType="application/javascript"
                      decls="#SourceHighcharts.1"/>
-                  <graphic url="Pictures/Graf1.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf1.jpg" mimeType="image/jpg"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -8480,9 +8861,9 @@
                   Judov iz ostale Dravske banovine.</p>
                <figure xml:id="ch04-img2" n="2" type="chart">
                   <head>Število Judov v mejah ozemlja Dravske banovine med leti 1880 in 1937</head>
-                  <graphic url="Pictures/Graf2.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf2.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf2.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf2.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf2.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf2.html" mimeType="text/html"/>
                   <table>
                      <row>
                         <cell/>
@@ -8540,9 +8921,9 @@
                <figure xml:id="ch04-img3" n="3" type="chart">
                   <head>Prisotno judovsko prebivalstvo z ozemlja Dravske banovine brez Prekmurja po
                      večjih mestih (1880-1937)</head>
-                  <graphic url="Pictures/Graf3.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf3.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf3.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf3.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf3.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf3.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -10461,9 +10842,9 @@
                         tabele in grafe tega poglavja, za katere ni posebno naveden noben
                         vir.</note>
                   </head>
-                  <graphic url="Pictures/Graf4.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf4.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf4.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf4.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf4.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf4.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell>stan</cell>
@@ -10581,9 +10962,9 @@
                <figure xml:id="ch06-img5" n="5" type="chart">
                   <head>Starostna struktura judovskega prebivalstva v Dravski banovini leta 1937 v
                      primerjavi s celotnim prebivalstvom leta 1931 v %</head>
-                  <graphic url="Pictures/Graf5.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf5.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf5.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf5.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf5.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf5.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell>starost</cell>
@@ -11163,9 +11544,9 @@
                         </bibl>; <bibl type="arhiv"
                            corresp="#ARS.AS68.29-2_1936-38.9437_1938.1937-05-01"/>. </note>
                   </head>
-                  <graphic url="Pictures/Graf6.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf6.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf6.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf6.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf6.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf6.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell rows="2"/>
@@ -11297,9 +11678,9 @@
                         </bibl>; <bibl type="arhiv"
                            corresp="#ARS.AS68.29-2_1936-38.9437_1938.1937-05-01"/>. </note>
                   </head>
-                  <graphic url="Pictures/Graf7.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf7.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf7.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf7.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf7.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf7.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -11627,9 +12008,9 @@
                   trgovci.</p>
                <figure xml:id="ch06-img8" n="8" type="chart">
                   <head>Državljanstvo Judov v večjih slovenskih mestih leta 1937</head>
-                  <graphic url="Pictures/Graf8.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf8.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf8.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf8.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf8.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf8.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -12297,9 +12678,9 @@
                         tiste tabele in grafe tega poglavja, za katere ni posebno naveden noben
                         vir.</note>
                   </head>
-                  <graphic url="Pictures/Graf9.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf9.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf9.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf9.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf9.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf9.html" mimeType="text/html"/>
                   <table>
                      <row>
                         <cell cols="2"/>
@@ -12617,9 +12998,9 @@
                         citiral v tem poglavju), predvsem pa na moji lastni podatkovni zbirki
                         podatkov o judovskem prebivalstvu.</note>
                   </head>
-                  <graphic url="Pictures/Graf10.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf10.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf10.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf10.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf10.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf10.html" mimeType="text/html"/>
                   <table>
                      <precision target="#precision.1" precision="medium">
                         <desc>Število judovskega prebivalstva v Prekmurju za leto 1869 izračunana
@@ -13028,9 +13409,9 @@
                   <head>Poklicna struktura prebivalstva jugoslovanske Slovenije iz leta 1931,
                      Judovskega prebivalstva iz leta 1937 ter judovskih in slovenskih žrtev druge
                      svetovne vojne</head>
-                  <graphic url="Pictures/Graf11.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf11.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf11.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf11.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf11.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf11.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell rows="2"/>
@@ -13146,9 +13527,9 @@
                <figure xml:id="ch07-img12" n="12" type="chart">
                   <head>Slovenske in judovske žrtve druge svetovno vojne v Prekmurju glede na datum
                      rojstva</head>
-                  <graphic url="Pictures/Graf12.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf12.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf12.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf12.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf12.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf12.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -13271,9 +13652,9 @@
                <figure xml:id="ch07-img13" n="13" type="chart">
                   <head>Leto rojstva judovskih žrtev holokavsta in preživelih Judov iz Prekmurja;
                      število</head>
-                  <graphic url="Pictures/Graf13.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf13.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf13.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf13.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf13.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf13.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -13396,9 +13777,9 @@
                   kolaboraciji.</p>
                <figure xml:id="ch07-img14" n="14" type="chart">
                   <head>Spol judovskih in ostalih žrtev druge svetovne vojne v Sloveniji; v %</head>
-                  <graphic url="Pictures/Graf14.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf14.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf14.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf14.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf14.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf14.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell rows="2"/>
@@ -13435,9 +13816,9 @@
                <figure xml:id="ch07-img15" n="15" type="chart">
                   <head>Deleži judovskih in ostalih civilnih žrtev druge svetovne vojne v Sloveniji
                      glede na spol; v %</head>
-                  <graphic url="Pictures/Graf15.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf15.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf15.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf15.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf15.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf15.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell rows="3"/>
@@ -13496,9 +13877,9 @@
                <figure xml:id="ch07-img16" n="16" type="chart">
                   <head>Vzrok smrti judovskih in ostalih žrtev druge svetovne vojne v Sloveniji
                      glede na spol, v %</head>
-                  <graphic url="Pictures/Graf16.jpg" mimeType="image/jpg"/>
-                  <graphic url="Pictures/Graf16.js" mimeType="application/javascript"/>
-                  <graphic url="Pictures/Graf16.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf16.jpg" mimeType="image/jpg"/>
+                  <graphic url="Charts/Graf16.js" mimeType="application/javascript"/>
+                  <graphic url="Charts/Graf16.html" mimeType="text/html"/>
                   <table>
                      <row role="label">
                         <cell rows="3"/>
