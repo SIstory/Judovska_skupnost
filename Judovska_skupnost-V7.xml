@@ -1723,6 +1723,9 @@
                   <placeName type="reg">Piran</placeName>
                   <placeName type="alt">Piranu</placeName>
                </place>
+               <place corresp="http://www.geonames.org/8989173">
+                  <placeName type="reg">Pirče</placeName>
+               </place>
                <place corresp="http://www.geonames.org/3068244">
                   <placeName type="reg">Plaňany</placeName>
                   <placeName type="alt">Plauany, okr. Kolín</placeName>
@@ -1848,12 +1851,20 @@
                   <placeName type="alt">Rechnitza</placeName>
                   <placeName type="alt">Rechnitz, Gradiščanska</placeName>
                </place>
+               <place corresp="http://www.geonames.org/3203922">
+                  <placeName type="reg">Bled-Rečica</placeName>
+                  <placeName type="alt">Rečica</placeName>
+               </place>
                <place corresp="http://www.geonames.org/3191734">
                   <placeName type="reg">Renkovci</placeName>
                   <placeName type="alt">Renkovci - Turnišče, Lendava</placeName>
                </place>
                <place corresp="http://www.geonames.org/3045876">
                   <placeName type="reg">Resznek</placeName>
+               </place>
+               <place corresp="http://live.dbpedia.org/data/Retje_nad_Trbovljami.rdf">
+                  <placeName type="reg">Retje nad Trbovljami</placeName>
+                  <placeName type="alt">Retje</placeName>
                </place>
                <place corresp="http://www.geonames.org/3191580">
                   <placeName type="reg">Rogaška Slatina</placeName>
@@ -2386,6 +2397,9 @@
                <place corresp="http://www.geonames.org/3186571">
                   <placeName type="reg">Zenkovci</placeName>
                </place>
+               <place corresp="http://www.geonames.org/3186510">
+                  <placeName type="reg">Zgornje Jarše</placeName>
+               </place>
                <place corresp="http://www.geonames.org/3186489">
                   <placeName type="reg">Zgornji Kamenščak</placeName>
                   <placeName type="alt">Kamenščak</placeName>
@@ -2511,6 +2525,12 @@
             </listPlace>
             <listPlace>
                <head>Kraji z ročno vpisanimi koordinatami</head>
+               <place xml:id="place.Loke-Trbovlje">
+                  <placeName type="reg">Loke</placeName>
+                  <location>
+                     <geo>46.157156,15.050666</geo>
+                  </location>
+               </place>
                <place xml:id="place.Kodeljevo">
                   <placeName type="reg">Kodeljevo</placeName>
                   <location>
@@ -8515,7 +8535,7 @@
                   </row>
                   <row>
                      <cell role="label">
-                        <placeName corresp="http://www.geonames.org/3339110/breg.html"
+                        <placeName corresp="http://www.geonames.org/3339110"
                            >Breg</placeName>
                      </cell>
                      <cell/>
