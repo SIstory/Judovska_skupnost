@@ -710,6 +710,14 @@
                </place>
                <place corresp="http://www.geonames.org/3204598">
                   <placeName type="reg">Bakovci</placeName>
+                  <placeName type="alt">Murska Sobota - okolica</placeName>
+                  <placeName type="alt">občine Murska Sobota okolica</placeName>
+                  <placeName type="alt">Murska Sobota okolica</placeName>
+                  <note>Čeprav je bil sedež občine Murska Sobota okolica v Murski Soboti in s tem v
+                     resnici v sosednji občini Murska Sobota, sem zaradi tega, da ne bi prišlo do
+                     pokrivanja geografskih podatkov med obema sosednjima občinama, za Mursko Soboto
+                     okolico določil Bakovce (največja vas te občine, v njih živelo največ Judov v
+                     tej občini) kot sedež občine.</note>
                </place>
                <place corresp="http://www.geonames.org/3055556">
                   <placeName type="reg">Balatonkenese</placeName>
@@ -1561,9 +1569,7 @@
                <place corresp="http://www.geonames.org/3194648">
                   <placeName type="reg">Murska Sobota</placeName>
                   <placeName type="alt">Murska sobota</placeName>
-                  <placeName type="alt">Murska Sobota okolica</placeName>
                   <placeName type="alt">Murska Sobota (Szarvar)</placeName>
-                  <placeName type="alt">Murska Sobota - okolica</placeName>
                   <placeName type="alt">Murske Sobote</placeName>
                   <placeName type="alt">Murski Soboti</placeName>
                   <placeName type="alt">Mursko Soboto</placeName>
@@ -1571,7 +1577,6 @@
                   <placeName type="alt">M. Sobota</placeName>
                   <placeName type="alt">M. Soboti</placeName>
                   <placeName type="alt">občine Murska Sobota</placeName>
-                  <placeName type="alt">občine Murska Sobota okolica</placeName>
                   <placeName type="alt">okraja Murska Sobota</placeName>
                   <placeName type="alt">okraju Murska Sobota</placeName>
                </place>
@@ -5547,8 +5552,8 @@
                <figure xml:id="ch03-img1" n="1" type="chart">
                   <head>Delež Judov Murske Sobote, Lendave, Beltincev in drugih prekmurskih vasi med
                      leti 1793 in 1937, v %</head>
-                  <graphic xml:id="Charts.Graf1" url="Charts/Graf1.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.1"/>
+                  <graphic xml:id="Charts.Graf1" url="Charts/Graf1.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.1"/>
                   <graphic url="Charts/Graf1.svg" mimeType="image/svg+xml" corresp="#Charts.Graf1"/>
                   <graphic url="Charts/Graf1.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf1"/>
                   <table>
@@ -8532,8 +8537,7 @@
                   </row>
                   <row>
                      <cell role="label">
-                        <placeName corresp="http://www.geonames.org/3339110"
-                           >Breg</placeName>
+                        <placeName corresp="http://www.geonames.org/3339110">Breg</placeName>
                      </cell>
                      <cell/>
                      <cell/>
@@ -8894,8 +8898,8 @@
                   Judov iz ostale Dravske banovine.</p>
                <figure xml:id="ch04-img2" n="2" type="chart">
                   <head>Število Judov v mejah ozemlja Dravske banovine med leti 1880 in 1937</head>
-                  <graphic xml:id="Charts.Graf2" url="Charts/Graf2.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.2"/>
+                  <graphic xml:id="Charts.Graf2" url="Charts/Graf2.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.2"/>
                   <graphic url="Charts/Graf2.svg" mimeType="image/svg+xml" corresp="#Charts.Graf2"/>
                   <graphic url="Charts/Graf2.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf2"/>
                   <table>
@@ -8955,8 +8959,8 @@
                <figure xml:id="ch04-img3" n="3" type="chart">
                   <head>Prisotno judovsko prebivalstvo z ozemlja Dravske banovine brez Prekmurja po
                      večjih mestih (1880-1937)</head>
-                  <graphic xml:id="Charts.Graf3" url="Charts/Graf3.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.3"/>
+                  <graphic xml:id="Charts.Graf3" url="Charts/Graf3.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.3"/>
                   <graphic url="Charts/Graf3.svg" mimeType="image/svg+xml" corresp="#Charts.Graf3"/>
                   <graphic url="Charts/Graf3.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf3"/>
                   <table>
@@ -10877,8 +10881,8 @@
                         tabele in grafe tega poglavja, za katere ni posebno naveden noben
                         vir.</note>
                   </head>
-                  <graphic xml:id="Charts.Graf4" url="Charts/Graf4.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.4"/>
+                  <graphic xml:id="Charts.Graf4" url="Charts/Graf4.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.4"/>
                   <graphic url="Charts/Graf4.svg" mimeType="image/svg+xml" corresp="#Charts.Graf4"/>
                   <graphic url="Charts/Graf4.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf4"/>
                   <table>
@@ -10998,8 +11002,8 @@
                <figure xml:id="ch06-img5" n="5" type="chart">
                   <head>Starostna struktura judovskega prebivalstva v Dravski banovini leta 1937 v
                      primerjavi s celotnim prebivalstvom leta 1931 v %</head>
-                  <graphic xml:id="Charts.Graf5" url="Charts/Graf5.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.5"/>
+                  <graphic xml:id="Charts.Graf5" url="Charts/Graf5.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.5"/>
                   <graphic url="Charts/Graf5.svg" mimeType="image/svg+xml" corresp="#Charts.Graf5"/>
                   <graphic url="Charts/Graf5.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf5"/>
                   <table>
@@ -11581,8 +11585,8 @@
                         </bibl>; <bibl type="arhiv"
                            corresp="#ARS.AS68.29-2_1936-38.9437_1938.1937-05-01"/>. </note>
                   </head>
-                  <graphic xml:id="Charts.Graf6" url="Charts/Graf6.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.6"/>
+                  <graphic xml:id="Charts.Graf6" url="Charts/Graf6.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.6"/>
                   <graphic url="Charts/Graf6.svg" mimeType="image/svg+xml" corresp="#Charts.Graf6"/>
                   <graphic url="Charts/Graf6.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf6"/>
                   <table>
@@ -11716,8 +11720,8 @@
                         </bibl>; <bibl type="arhiv"
                            corresp="#ARS.AS68.29-2_1936-38.9437_1938.1937-05-01"/>. </note>
                   </head>
-                  <graphic xml:id="Charts.Graf7" url="Charts/Graf7.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.7"/>
+                  <graphic xml:id="Charts.Graf7" url="Charts/Graf7.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.7"/>
                   <graphic url="Charts/Graf7.svg" mimeType="image/svg+xml" corresp="#Charts.Graf7"/>
                   <graphic url="Charts/Graf7.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf7"/>
                   <table>
@@ -12047,8 +12051,8 @@
                   trgovci.</p>
                <figure xml:id="ch06-img8" n="8" type="chart">
                   <head>Državljanstvo Judov v večjih slovenskih mestih leta 1937</head>
-                  <graphic xml:id="Charts.Graf8" url="Charts/Graf8.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.8"/>
+                  <graphic xml:id="Charts.Graf8" url="Charts/Graf8.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.8"/>
                   <graphic url="Charts/Graf8.svg" mimeType="image/svg+xml" corresp="#Charts.Graf8"/>
                   <graphic url="Charts/Graf8.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf8"/>
                   <table>
@@ -12718,8 +12722,8 @@
                         tiste tabele in grafe tega poglavja, za katere ni posebno naveden noben
                         vir.</note>
                   </head>
-                  <graphic xml:id="Charts.Graf9" url="Charts/Graf9.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.9"/>
+                  <graphic xml:id="Charts.Graf9" url="Charts/Graf9.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.9"/>
                   <graphic url="Charts/Graf9.svg" mimeType="image/svg+xml" corresp="#Charts.Graf9"/>
                   <graphic url="Charts/Graf9.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf9"/>
                   <table>
@@ -13039,8 +13043,8 @@
                         citiral v tem poglavju), predvsem pa na moji lastni podatkovni zbirki
                         podatkov o judovskem prebivalstvu.</note>
                   </head>
-                  <graphic xml:id="Charts.Graf10" url="Charts/Graf10.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.10"/>
+                  <graphic xml:id="Charts.Graf10" url="Charts/Graf10.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.10"/>
                   <graphic url="Charts/Graf10.svg" mimeType="image/svg+xml" corresp="#Charts.Graf10"/>
                   <graphic url="Charts/Graf10.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf10"/>
                   <table>
@@ -13451,8 +13455,8 @@
                   <head>Poklicna struktura prebivalstva jugoslovanske Slovenije iz leta 1931,
                      Judovskega prebivalstva iz leta 1937 ter judovskih in slovenskih žrtev druge
                      svetovne vojne</head>
-                  <graphic xml:id="Charts.Graf11" url="Charts/Graf11.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.11"/>
+                  <graphic xml:id="Charts.Graf11" url="Charts/Graf11.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.11"/>
                   <graphic url="Charts/Graf11.svg" mimeType="image/svg+xml" corresp="#Charts.Graf11"/>
                   <graphic url="Charts/Graf11.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf11"/>
                   <table>
@@ -13570,8 +13574,8 @@
                <figure xml:id="ch07-img12" n="12" type="chart">
                   <head>Slovenske in judovske žrtve druge svetovno vojne v Prekmurju glede na datum
                      rojstva</head>
-                  <graphic xml:id="Charts.Graf12" url="Charts/Graf12.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.12"/>
+                  <graphic xml:id="Charts.Graf12" url="Charts/Graf12.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.12"/>
                   <graphic url="Charts/Graf12.svg" mimeType="image/svg+xml" corresp="#Charts.Graf12"/>
                   <graphic url="Charts/Graf12.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf12"/>
                   <table>
@@ -13696,11 +13700,11 @@
                <figure xml:id="ch07-img13" n="13" type="chart">
                   <head>Leto rojstva judovskih žrtev holokavsta in preživelih Judov iz Prekmurja;
                      število</head>
-                  <graphic xml:id="Charts.Graf13" url="Charts/Graf13.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.13"/>
+                  <graphic xml:id="Charts.Graf13" url="Charts/Graf13.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.13"/>
                   <graphic url="Charts/Graf13.svg" mimeType="image/svg+xml" corresp="#Charts.Graf13"/>
                   <graphic url="Charts/Graf13.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf13"/>
-                  
+
                   <graphic url="Charts/Graf13.jpg" mimeType="image/jpg"/>
                   <graphic url="Charts/Graf13.js" mimeType="application/javascript"/>
                   <graphic url="Charts/Graf13.html" mimeType="text/html"/>
@@ -13826,8 +13830,8 @@
                   kolaboraciji.</p>
                <figure xml:id="ch07-img14" n="14" type="chart">
                   <head>Spol judovskih in ostalih žrtev druge svetovne vojne v Sloveniji; v %</head>
-                  <graphic xml:id="Charts.Graf14" url="Charts/Graf14.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.14"/>
+                  <graphic xml:id="Charts.Graf14" url="Charts/Graf14.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.14"/>
                   <graphic url="Charts/Graf14.svg" mimeType="image/svg+xml" corresp="#Charts.Graf14"/>
                   <graphic url="Charts/Graf14.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf14"/>
                   <table>
@@ -13866,8 +13870,8 @@
                <figure xml:id="ch07-img15" n="15" type="chart">
                   <head>Deleži judovskih in ostalih civilnih žrtev druge svetovne vojne v Sloveniji
                      glede na spol; v %</head>
-                  <graphic xml:id="Charts.Graf15" url="Charts/Graf15.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.15"/>
+                  <graphic xml:id="Charts.Graf15" url="Charts/Graf15.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.15"/>
                   <graphic url="Charts/Graf15.svg" mimeType="image/svg+xml" corresp="#Charts.Graf15"/>
                   <graphic url="Charts/Graf15.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf15"/>
                   <table>
@@ -13928,8 +13932,8 @@
                <figure xml:id="ch07-img16" n="16" type="chart">
                   <head>Vzrok smrti judovskih in ostalih žrtev druge svetovne vojne v Sloveniji
                      glede na spol, v %</head>
-                  <graphic xml:id="Charts.Graf16" url="Charts/Graf16.html" mimeType="application/javascript"
-                     decls="#SourceHighcharts.16"/>
+                  <graphic xml:id="Charts.Graf16" url="Charts/Graf16.html"
+                     mimeType="application/javascript" decls="#SourceHighcharts.16"/>
                   <graphic url="Charts/Graf16.svg" mimeType="image/svg+xml" corresp="#Charts.Graf16"/>
                   <graphic url="Charts/Graf16.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf16"/>
                   <table>
@@ -37594,7 +37598,7 @@
                <head>Popis Judov Dravske banovine leta 1937 - Murska Sobota okolica</head>
                <p>O popisu Judov Dravske banovine iz leta 1937 <ref target="#p.1">glej</ref>.</p>
                <list xml:id="ch11-table35.8">
-                  <head n="35">Popis Judov <placeName corresp="http://www.geonames.org/3194648">
+                  <head n="35">Popis Judov <placeName corresp="http://www.geonames.org/3204598">
                         <ref target="#ch04-table3.20-obc9">občine Murska Sobota okolica</ref>
                      </placeName>
                      <placeName corresp="http://www.geonames.org/3194648">okraja Murska
@@ -37619,7 +37623,7 @@
                         <item>jugoslovansko</item>
                         <label>domovinskost</label>
                         <item>
-                           <placeName corresp="http://www.geonames.org/3194648">Murska Sobota -
+                           <placeName corresp="http://www.geonames.org/3204598">Murska Sobota -
                               okolica</placeName>
                         </item>
                         <label>poklic</label>
@@ -37659,7 +37663,7 @@
                         <item>jugoslovansko</item>
                         <label>domovinskost</label>
                         <item>
-                           <placeName corresp="http://www.geonames.org/3194648">Murska Sobota -
+                           <placeName corresp="http://www.geonames.org/3204598">Murska Sobota -
                               okolica</placeName>
                         </item>
                         <label>poklic</label>
@@ -37706,7 +37710,7 @@
                         <item>jugoslovansko</item>
                         <label>domovinskost</label>
                         <item>
-                           <placeName corresp="http://www.geonames.org/3194648">Murska Sobota -
+                           <placeName corresp="http://www.geonames.org/3204598">Murska Sobota -
                               okolica</placeName>
                         </item>
                         <label>poklic</label>
@@ -37748,7 +37752,7 @@
                         <item>jugoslovansko</item>
                         <label>domovinskost</label>
                         <item>
-                           <placeName corresp="http://www.geonames.org/3194648">Murska Sobota -
+                           <placeName corresp="http://www.geonames.org/3204598">Murska Sobota -
                               okolica</placeName>
                         </item>
                         <label>poklic</label>
