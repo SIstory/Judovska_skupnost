@@ -516,155 +516,14 @@
             <p>Izdajo knjige je omogočila Javna agencija za knjigo Republike Slovenije</p>
          </projectDesc>
          <classDecl>
-            <taxonomy>
-               <category xml:id="odKdaj">
-                  <catDesc>Od kdaj oseba prebiva na ozemlju Jugoslavije oziroma konkretno v katerem
-                     od jugoslovanskih mest.</catDesc>
-                  <category xml:id="vLjubljani">
-                     <catDesc>Od kdaj oseba prebiva v <placeName
-                           corresp="http://www.geonames.org/3196359"
-                        >Ljubljani</placeName>.</catDesc>
-                  </category>
-                  <category xml:id="vKranju">
-                     <catDesc>Od kdaj oseba prebiva v <placeName
-                           corresp="http://www.geonames.org/3197378">Kranju</placeName>
-                     </catDesc>
-                  </category>
-                  <category xml:id="vVukovarju">
-                     <catDesc>Od kdaj oseba prebiva v <placeName
-                           corresp="http://www.geonames.org/3187047">Vukovarju</placeName>
-                     </catDesc>
-                  </category>
-                  <category xml:id="vJugoslaviji">
-                     <catDesc>Od kdaj oseba prebiva na ozemlju jugoslovanske države v času med obema
-                        svetovnima vojnama. Prebivanje velja tudi za obdobje pred nastankom
-                        jugoslovanske države.</catDesc>
-                  </category>
-               </category>
-               <category xml:id="drzavljanstvo">
-                  <catDesc>
-                     <term xml:lang="slv">državljanstvo</term>
-                     <term xml:lang="eng">citizenship</term>
-                  </catDesc>
-                  <category xml:id="drz.jugoslovansko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Jugoslavija">Jugoslavija</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.ceskoslovasko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Ceskoslovaska">Češkoslovaška</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.avstrijsko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Avstrija">Avstrija</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.madzarsko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Madzarska">Madžarska</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.nemsko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Nemcija">Nemčija</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.poljsko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Poljska">Poljska</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.rusko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Rusija">Rusija</placeName> pred oktobrsko
-                           revolucijo</term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.romunsko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Romunija">Romunija</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.italijansko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Italija">Italije</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.svicarsko">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Svica">Švice</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.Egipt">
-                     <catDesc>
-                        <term>
-                           <placeName ref="#place.Egipt">Egipt</placeName>
-                        </term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="drz.brez">
-                     <catDesc>
-                        <term xml:lang="slv">brez državljanstva</term>
-                     </catDesc>
-                  </category>
-               </category>
-               <category xml:id="stan">
-                  <catDesc>
-                     <term xml:lang="slv">stan</term>
-                     <term xml:lang="eng">marital status</term>
-                     <term xml:lang="deu">Familienstand</term>
-                  </catDesc>
-                  <category xml:id="stan.mladoleten">
-                     <catDesc>
-                        <term xml:lang="slv">mladoleten</term>
-                     </catDesc>
-                     <catDesc xml:lang="slv">Mladoletna oseba, ki je samska in živi pri
-                        starših.</catDesc>
-                  </category>
-                  <category xml:id="stan.samski">
-                     <catDesc>
-                        <term xml:lang="slv">samski</term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="stan.porocen">
-                     <catDesc>
-                        <term xml:lang="slv">poročen</term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="stan.vdovski">
-                     <catDesc>
-                        <term xml:lang="slv">ovdovel</term>
-                     </catDesc>
-                  </category>
-                  <category xml:id="stan.locen">
-                     <catDesc>
-                        <term xml:lang="slv">ločen</term>
-                     </catDesc>
-                  </category>
-               </category>
-            </taxonomy>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="listPerson-Jews-1937.xml" xpointer="taxonomy.odKdaj"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="listPerson-Jews-1937.xml" xpointer="taxonomy.drzavljanstvo"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude"
+               href="listPerson-Jews-1937.xml" xpointer="taxonomy.stan"/>
          </classDecl>
+         <geoDecl datum="WGS84"/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -673,7 +532,6 @@
          <settingDesc>
             <listPlace>
                <head>Seznam krajevnih imen</head>
-               <!-- ta seznam se lahko odstrani, saj se ga ne potrebuje -->
                <place corresp="http://www.geonames.org/723036">
                   <placeName type="reg">Abaújszántó</placeName>
                   <placeName type="alt">Abauj Santo, Č. S. R.</placeName>
@@ -2530,20 +2388,20 @@
                <place xml:id="place.Loke-Trbovlje">
                   <placeName type="reg">Loke</placeName>
                   <location>
-                     <geo>46.157156,15.050666</geo>
+                     <geo>46.157156 15.050666</geo>
                   </location>
                </place>
                <place xml:id="place.Kodeljevo">
                   <placeName type="reg">Kodeljevo</placeName>
                   <location>
-                     <geo>46.051686,14.532934</geo>
+                     <geo>46.051686 14.532934</geo>
                   </location>
                   <note>http://sl.wikipedia.org/wiki/Kodeljevo</note>
                </place>
                <place xml:id="place.Polje">
                   <placeName type="reg">Polje</placeName>
                   <location>
-                     <geo>46.063881,14.615418</geo>
+                     <geo>46.063881 14.615418</geo>
                   </location>
                   <note>http://sl.wikipedia.org/w/index.php?title=Ljubljana-Polje</note>
                </place>
