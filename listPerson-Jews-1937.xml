@@ -192,24 +192,24 @@
                   <catDesc>Od kdaj biva na ozemlju države.</catDesc>
                   <category xml:id="vJugoslaviji">
                      <catDesc>Od kdaj oseba prebiva na ozemlju jugoslovanske države v času med obema
-                        svetovnima vojnama. To velja tudi za obdobje pred nastankom
-                        jugoslovanske države.</catDesc>
+                        svetovnima vojnama. To velja tudi za obdobje pred nastankom jugoslovanske
+                        države.</catDesc>
                   </category>
                </category>
                <category>
                   <catDesc>Od kdaj biva v kraju popisovanja</catDesc>
                   <category xml:id="vLjubljani">
                      <catDesc>Od kdaj oseba prebiva v <placeName
-                        ref="http://www.geonames.org/3196359">Ljubljani</placeName>.</catDesc>
+                           ref="http://www.geonames.org/3196359">Ljubljani</placeName>.</catDesc>
                   </category>
                   <category xml:id="vKranju">
                      <catDesc>Od kdaj oseba prebiva v <placeName
-                        ref="http://www.geonames.org/3197378">Kranju</placeName>
+                           ref="http://www.geonames.org/3197378">Kranju</placeName>
                      </catDesc>
                   </category>
                   <category xml:id="vVukovarju">
                      <catDesc>Od kdaj oseba prebiva v <placeName
-                        ref="http://www.geonames.org/3187047">Vukovarju</placeName>
+                           ref="http://www.geonames.org/3187047">Vukovarju</placeName>
                      </catDesc>
                   </category>
                </category>
@@ -334,7 +334,8 @@
                      <publisher>Inštitut za novejšo zgodovino</publisher>
                      <authority>Raziskovalna infrastruktura slovenskega zgodovinopisja</authority>
                      <date>2014</date>
-                  </publicationStmt> </biblFull>
+                  </publicationStmt>
+               </biblFull>
                <category>
                   <catDesc>
                      <term xml:lang="sl">družinski stan</term>
@@ -450,7 +451,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">žena ne biva tu</note>
+               <note type="family">žena ne biva tu</note>
             </person>
             <person xml:id="AlkalayViktorija.1887-11-05">
                <persName>
@@ -963,7 +964,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">žena ne biva tu</note>
+               <note type="family">žena ne biva tu</note>
             </person>
             <person xml:id="BohmerwaldHenrik.1889-05-03">
                <persName>
@@ -3391,7 +3392,6 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.locen"/>
-               <note type="družina">?</note>
             </person>
             <person xml:id="MusenIzraelski.1915-05-10">
                <persName>
@@ -4135,7 +4135,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">pri otrocih zapis zdaj jugosl.</note>
+               <note type="family">pri otrocih zapis zdaj jugosl.</note>
             </person>
             <person xml:id="SternOlga.unknown">
                <persName>
@@ -4492,7 +4492,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">žena ni prijavljena</note>
+               <note type="family">žena ni prijavljena</note>
             </person>
             <person xml:id="VasicJakob.1902-02-15">
                <persName notBefore="1935-04-23">
@@ -5777,8 +5777,8 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">mož Hinko (spodaj spodaj) in 3 dečki (niso zapisani) so
-                  rimskokatoliške vere</note>
+               <note type="family">mož Hinko (spodaj) in 3 dečki (niso zapisani) so rimskokatoliške
+                  vere</note>
             </person>
             <person xml:id="KosHinko.unknown">
                <persName>
@@ -7571,7 +7571,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.samski"/>
-               <note type="družina">živi pri ločeni materi, ki je rimskokatoliške vere</note>
+               <note type="family">živi pri ločeni materi, ki je rimskokatoliške vere</note>
             </person>
             <person xml:id="KudisJosip.1890-05-28">
                <persName>
@@ -8098,7 +8098,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.samski"/>
-               <note type="družina">mati Hermina, roj. Moor, rimskokatoliške vere, sedaj v
+               <note type="family">mati Hermina, roj. Moor, rimskokatoliške vere, sedaj v
                   Avstriji</note>
             </person>
             <person xml:id="RechnitzerBernard.1881-09-11">
@@ -8460,7 +8460,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.vdovski"/>
-               <note type="družina">vdova po trgovcu</note>
+               <note type="family">vdova po trgovcu</note>
             </person>
             <person xml:id="MaricOskar.1877-02-11">
                <persName>
@@ -8801,7 +8801,6 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.samski"/>
-               <faith>rimokatoliške</faith>
             </person>
             <person xml:id="HonigsfeldRoza.1879-04-14">
                <persName>
@@ -8935,7 +8934,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">brez otrok</note>
+               <note type="family">brez otrok</note>
             </person>
             <person xml:id="FrischlerGreta.unknown">
                <persName>
@@ -10157,7 +10156,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">brez nedoletnih otrok</note>
+               <note type="family">brez nedoletnih otrok</note>
             </person>
             <person xml:id="BauerKatarina.1884-03-24">
                <persName>
@@ -16690,7 +16689,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">nima nedoletnih otrok; rojena kot judinja Stern, vdova Blass,
+               <note type="family">nima nedoletnih otrok; rojena kot judinja Stern, vdova Blass,
                   znova poročena Primožič</note>
             </person>
             <person xml:id="BlassMilan.1914-03-18">
@@ -20290,7 +20289,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">otroci evangeličanske veroizpovedi</note>
+               <note type="family">otroci evangeličanske veroizpovedi</note>
             </person>
             <person xml:id="ForstIda.unknown">
                <persName>
@@ -22672,7 +22671,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">žena ni navedena</note>
+               <note type="family">žena ni navedena</note>
             </person>
             <person xml:id="HirschlZeni.1880-01-21">
                <persName>
@@ -23831,7 +23830,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">mož ni naveden</note>
+               <note type="family">mož ni naveden</note>
             </person>
             <person xml:id="WalyAleksander.1882-11-11">
                <persName>
@@ -24561,7 +24560,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">žena ni navedena</note>
+               <note type="family">žena ni navedena</note>
             </person>
             <person xml:id="FurstBlanka.1913-01-27">
                <persName>
@@ -24762,7 +24761,7 @@
                   </location>
                </residence>
                <state type="maritalStatus" when="1937-05-01" ana="#stan.poroceni"/>
-               <note type="družina">žena ni navedena</note>
+               <note type="family">žena ni navedena</note>
             </person>
             <person xml:id="KardosIvo.1909-11-02">
                <persName>

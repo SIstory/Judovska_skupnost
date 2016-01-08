@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_allPlus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_allPlus.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="slv">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Judovska skupnost v Sloveniji na predvečer holokavsta</title>
@@ -68,7 +65,7 @@
          </publicationStmt>
          <seriesStmt>
             <title>Zgodovini.ce</title>
-            <biblScope type="vol">11</biblScope>
+            <biblScope unit="volume">11</biblScope>
          </seriesStmt>
          <sourceDesc xml:id="SourceSIstory........" default="true">
             <biblStruct xml:id="COBISS.258331392">
@@ -5410,10 +5407,10 @@
                <figure xml:id="ch03-img1" n="1" type="chart">
                   <head>Delež Judov Murske Sobote, Lendave, Beltincev in drugih prekmurskih vasi med
                      leti 1793 in 1937, v %</head>
-                  <graphic xml:id="Charts.Graf1" url="Charts/Graf1.html"
+                  <graphic xml:id="Charts.Graf1" url="Charts/Graf1.html"  xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.1"/>
-                  <graphic url="Charts/Graf1.svg" mimeType="image/svg+xml" corresp="#Charts.Graf1"/>
-                  <graphic url="Charts/Graf1.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf1"/>
+                  <graphic url="Charts/Graf1.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf1"/>
+                  <graphic url="Charts/Graf1.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf1"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -8756,10 +8753,10 @@
                   Judov iz ostale Dravske banovine.</p>
                <figure xml:id="ch04-img2" n="2" type="chart">
                   <head>Število Judov v mejah ozemlja Dravske banovine med leti 1880 in 1937</head>
-                  <graphic xml:id="Charts.Graf2" url="Charts/Graf2.html"
+                  <graphic xml:id="Charts.Graf2" url="Charts/Graf2.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.2"/>
-                  <graphic url="Charts/Graf2.svg" mimeType="image/svg+xml" corresp="#Charts.Graf2"/>
-                  <graphic url="Charts/Graf2.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf2"/>
+                  <graphic url="Charts/Graf2.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf2"/>
+                  <graphic url="Charts/Graf2.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf2"/>
                   <table>
                      <row>
                         <cell/>
@@ -8817,10 +8814,10 @@
                <figure xml:id="ch04-img3" n="3" type="chart">
                   <head>Prisotno judovsko prebivalstvo z ozemlja Dravske banovine brez Prekmurja po
                      večjih mestih (1880-1937)</head>
-                  <graphic xml:id="Charts.Graf3" url="Charts/Graf3.html"
+                  <graphic xml:id="Charts.Graf3" url="Charts/Graf3.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.3"/>
-                  <graphic url="Charts/Graf3.svg" mimeType="image/svg+xml" corresp="#Charts.Graf3"/>
-                  <graphic url="Charts/Graf3.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf3"/>
+                  <graphic url="Charts/Graf3.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf3"/>
+                  <graphic url="Charts/Graf3.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf3"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -10739,10 +10736,10 @@
                         tabele in grafe tega poglavja, za katere ni posebno naveden noben
                         vir.</note>
                   </head>
-                  <graphic xml:id="Charts.Graf4" url="Charts/Graf4.html"
+                  <graphic xml:id="Charts.Graf4" url="Charts/Graf4.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.4"/>
-                  <graphic url="Charts/Graf4.svg" mimeType="image/svg+xml" corresp="#Charts.Graf4"/>
-                  <graphic url="Charts/Graf4.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf4"/>
+                  <graphic url="Charts/Graf4.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf4"/>
+                  <graphic url="Charts/Graf4.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf4"/>
                   <table>
                      <row role="label">
                         <cell>stan</cell>
@@ -10860,10 +10857,10 @@
                <figure xml:id="ch06-img5" n="5" type="chart">
                   <head>Starostna struktura judovskega prebivalstva v Dravski banovini leta 1937 v
                      primerjavi s celotnim prebivalstvom leta 1931 v %</head>
-                  <graphic xml:id="Charts.Graf5" url="Charts/Graf5.html"
+                  <graphic xml:id="Charts.Graf5" url="Charts/Graf5.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.5"/>
-                  <graphic url="Charts/Graf5.svg" mimeType="image/svg+xml" corresp="#Charts.Graf5"/>
-                  <graphic url="Charts/Graf5.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf5"/>
+                  <graphic url="Charts/Graf5.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf5"/>
+                  <graphic url="Charts/Graf5.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf5"/>
                   <table>
                      <row role="label">
                         <cell>starost</cell>
@@ -11443,10 +11440,10 @@
                         </bibl>; <bibl type="arhiv"
                            corresp="#ARS.AS68.29-2_1936-38.9437_1938.1937-05-01"/>. </note>
                   </head>
-                  <graphic xml:id="Charts.Graf6" url="Charts/Graf6.html"
+                  <graphic xml:id="Charts.Graf6" url="Charts/Graf6.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.6"/>
-                  <graphic url="Charts/Graf6.svg" mimeType="image/svg+xml" corresp="#Charts.Graf6"/>
-                  <graphic url="Charts/Graf6.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf6"/>
+                  <graphic url="Charts/Graf6.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf6"/>
+                  <graphic url="Charts/Graf6.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf6"/>
                   <table>
                      <row role="label">
                         <cell rows="2"/>
@@ -11578,10 +11575,10 @@
                         </bibl>; <bibl type="arhiv"
                            corresp="#ARS.AS68.29-2_1936-38.9437_1938.1937-05-01"/>. </note>
                   </head>
-                  <graphic xml:id="Charts.Graf7" url="Charts/Graf7.html"
+                  <graphic xml:id="Charts.Graf7" url="Charts/Graf7.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.7"/>
-                  <graphic url="Charts/Graf7.svg" mimeType="image/svg+xml" corresp="#Charts.Graf7"/>
-                  <graphic url="Charts/Graf7.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf7"/>
+                  <graphic url="Charts/Graf7.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf7"/>
+                  <graphic url="Charts/Graf7.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf7"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -11909,10 +11906,10 @@
                   trgovci.</p>
                <figure xml:id="ch06-img8" n="8" type="chart">
                   <head>Državljanstvo Judov v večjih slovenskih mestih leta 1937</head>
-                  <graphic xml:id="Charts.Graf8" url="Charts/Graf8.html"
+                  <graphic xml:id="Charts.Graf8" url="Charts/Graf8.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.8"/>
-                  <graphic url="Charts/Graf8.svg" mimeType="image/svg+xml" corresp="#Charts.Graf8"/>
-                  <graphic url="Charts/Graf8.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf8"/>
+                  <graphic url="Charts/Graf8.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf8"/>
+                  <graphic url="Charts/Graf8.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf8"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -12580,10 +12577,10 @@
                         tiste tabele in grafe tega poglavja, za katere ni posebno naveden noben
                         vir.</note>
                   </head>
-                  <graphic xml:id="Charts.Graf9" url="Charts/Graf9.html"
+                  <graphic xml:id="Charts.Graf9" url="Charts/Graf9.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.9"/>
-                  <graphic url="Charts/Graf9.svg" mimeType="image/svg+xml" corresp="#Charts.Graf9"/>
-                  <graphic url="Charts/Graf9.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf9"/>
+                  <graphic url="Charts/Graf9.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf9"/>
+                  <graphic url="Charts/Graf9.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf9"/>
                   <table>
                      <row>
                         <cell cols="2"/>
@@ -12903,8 +12900,8 @@
                   </head>
                   <graphic xml:id="Charts.Graf10" url="Charts/Graf10.html"
                      mimeType="application/javascript" decls="#SourceHighcharts.10"/>
-                  <graphic url="Charts/Graf10.svg" mimeType="image/svg+xml" corresp="#Charts.Graf10"/>
-                  <graphic url="Charts/Graf10.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf10"/>
+                  <graphic url="Charts/Graf10.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf10"/>
+                  <graphic url="Charts/Graf10.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf10"/>
                   <table>
                      <precision target="#precision.1" precision="medium">
                         <desc>Število judovskega prebivalstva v Prekmurju za leto 1869 izračunana
@@ -13313,10 +13310,10 @@
                   <head>Poklicna struktura prebivalstva jugoslovanske Slovenije iz leta 1931,
                      Judovskega prebivalstva iz leta 1937 ter judovskih in slovenskih žrtev druge
                      svetovne vojne</head>
-                  <graphic xml:id="Charts.Graf11" url="Charts/Graf11.html"
+                  <graphic xml:id="Charts.Graf11" url="Charts/Graf11.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.11"/>
-                  <graphic url="Charts/Graf11.svg" mimeType="image/svg+xml" corresp="#Charts.Graf11"/>
-                  <graphic url="Charts/Graf11.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf11"/>
+                  <graphic url="Charts/Graf11.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf11"/>
+                  <graphic url="Charts/Graf11.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf11"/>
                   <table>
                      <row role="label">
                         <cell rows="2"/>
@@ -13432,10 +13429,10 @@
                <figure xml:id="ch07-img12" n="12" type="chart">
                   <head>Slovenske in judovske žrtve druge svetovno vojne v Prekmurju glede na datum
                      rojstva</head>
-                  <graphic xml:id="Charts.Graf12" url="Charts/Graf12.html"
+                  <graphic xml:id="Charts.Graf12" url="Charts/Graf12.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.12"/>
-                  <graphic url="Charts/Graf12.svg" mimeType="image/svg+xml" corresp="#Charts.Graf12"/>
-                  <graphic url="Charts/Graf12.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf12"/>
+                  <graphic url="Charts/Graf12.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf12"/>
+                  <graphic url="Charts/Graf12.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf12"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -13558,14 +13555,10 @@
                <figure xml:id="ch07-img13" n="13" type="chart">
                   <head>Leto rojstva judovskih žrtev holokavsta in preživelih Judov iz Prekmurja;
                      število</head>
-                  <graphic xml:id="Charts.Graf13" url="Charts/Graf13.html"
+                  <graphic xml:id="Charts.Graf13" url="Charts/Graf13.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.13"/>
-                  <graphic url="Charts/Graf13.svg" mimeType="image/svg+xml" corresp="#Charts.Graf13"/>
-                  <graphic url="Charts/Graf13.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf13"/>
-
-                  <graphic url="Charts/Graf13.jpg" mimeType="image/jpg"/>
-                  <graphic url="Charts/Graf13.js" mimeType="application/javascript"/>
-                  <graphic url="Charts/Graf13.html" mimeType="text/html"/>
+                  <graphic url="Charts/Graf13.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf13"/>
+                  <graphic url="Charts/Graf13.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf13"/>
                   <table>
                      <row role="label">
                         <cell/>
@@ -13688,10 +13681,10 @@
                   kolaboraciji.</p>
                <figure xml:id="ch07-img14" n="14" type="chart">
                   <head>Spol judovskih in ostalih žrtev druge svetovne vojne v Sloveniji; v %</head>
-                  <graphic xml:id="Charts.Graf14" url="Charts/Graf14.html"
+                  <graphic xml:id="Charts.Graf14" url="Charts/Graf14.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.14"/>
-                  <graphic url="Charts/Graf14.svg" mimeType="image/svg+xml" corresp="#Charts.Graf14"/>
-                  <graphic url="Charts/Graf14.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf14"/>
+                  <graphic url="Charts/Graf14.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf14"/>
+                  <graphic url="Charts/Graf14.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf14"/>
                   <table>
                      <row role="label">
                         <cell rows="2"/>
@@ -13728,10 +13721,10 @@
                <figure xml:id="ch07-img15" n="15" type="chart">
                   <head>Deleži judovskih in ostalih civilnih žrtev druge svetovne vojne v Sloveniji
                      glede na spol; v %</head>
-                  <graphic xml:id="Charts.Graf15" url="Charts/Graf15.html"
+                  <graphic xml:id="Charts.Graf15" url="Charts/Graf15.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.15"/>
-                  <graphic url="Charts/Graf15.svg" mimeType="image/svg+xml" corresp="#Charts.Graf15"/>
-                  <graphic url="Charts/Graf15.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf15"/>
+                  <graphic url="Charts/Graf15.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf15"/>
+                  <graphic url="Charts/Graf15.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf15"/>
                   <table>
                      <row role="label">
                         <cell rows="3"/>
@@ -13790,10 +13783,10 @@
                <figure xml:id="ch07-img16" n="16" type="chart">
                   <head>Vzrok smrti judovskih in ostalih žrtev druge svetovne vojne v Sloveniji
                      glede na spol, v %</head>
-                  <graphic xml:id="Charts.Graf16" url="Charts/Graf16.html"
+                  <graphic xml:id="Charts.Graf16" url="Charts/Graf16.html" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/"
                      mimeType="application/javascript" decls="#SourceHighcharts.16"/>
-                  <graphic url="Charts/Graf16.svg" mimeType="image/svg+xml" corresp="#Charts.Graf16"/>
-                  <graphic url="Charts/Graf16.jpeg" mimeType="image/jpeg" corresp="#Charts.Graf16"/>
+                  <graphic url="Charts/Graf16.svg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/svg+xml" corresp="#Charts.Graf16"/>
+                  <graphic url="Charts/Graf16.jpeg" xml:base="http://www2.sistory.si/publikacije/monografije/Judovska_skupnost/" mimeType="image/jpeg" corresp="#Charts.Graf16"/>
                   <table>
                      <row role="label">
                         <cell rows="3"/>
@@ -15019,8 +15012,8 @@
                   <biblStruct xml:id="bibl.WolfgangBenz-Holokavst-2000">
                      <monogr>
                         <author>
-                           <forename>Benz</forename>
-                           <surname>Wolfgang</surname>
+                           <forename>Wolfgang</forename>
+                           <surname>Benz</surname>
                         </author>
                         <title>Holokavst</title>
                         <imprint>
