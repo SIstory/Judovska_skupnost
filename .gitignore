@@ -1,25 +1,11 @@
-# Prejšnje verzije glavnega TEI dokumenta
-Judovska_skupnost-V1.xml
-Judovska_skupnost-V2.xml
-Judovska_skupnost-V3.xml
-Judovska_skupnost-V4.xml
-Judovska_skupnost-V5.xml
-Judovska_skupnost-V6.xml
+~*.*
+*.pdf
+*.epub
+*.bak
+*.jpg
+*.jpeg
+*.png
 
-# XSLT stili za pretvorbo glavnega TEI dokumeta iz ene v drugo verzijo
-Judovska_skupnost-V3toV4.xsl
-Judovska_skupnost-V5toV6.xsl
-
-# Direktorija z datotekami originalne analogne knjige
-# ter fotografijami in podatki popisa 1937
-knjiga_analogna/
-Judje-popis37/
-
-# Ignoriraj direktorije, kjer se shranijo datoteke, ki so bile pretvorjene iz TEI
-HTMLpublikacija/
-Pancur_Judovska_skupnost_v_Sloveniji_2/
-ePub3/
-
-# Ignoriraj direktorije z delavnimi datotekami za ustvarjanje ali pretvorbo posameznih delov TEI publikacij
-pretvrbe_delov_TEI_publikacie/
-zemljevidi/
+archive/
+sources/
+working/
